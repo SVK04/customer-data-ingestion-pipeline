@@ -1,0 +1,18 @@
+# Environment variables
+.env
+*.env
+
+# Virtual environments
+.venv/
+venv/
+mock-server/venv/
+pipeline-service/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.vscode/
+.DS_Store
+Thumbs.db
